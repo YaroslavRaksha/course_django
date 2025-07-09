@@ -16,6 +16,7 @@ db.sqlite3
 media/
 
 # Virtual environment
+.venv/
 venv/
 *.virtualenv/
 pyvenv.cfg
